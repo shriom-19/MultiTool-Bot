@@ -1,0 +1,38 @@
+# Environment / API keys
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+langchain/
+.venv/
+venv/
+
+# Databases
+chatbot.db
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Uploaded files
+uploads/
+*.pdf
+
+# Logs
+*.log
+
+.env
+__pycache__/
+*.pyc
+Langchain_backend.py
+Langghain_frontend.py
